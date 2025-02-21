@@ -1,4 +1,4 @@
-module github.com/Khan/genqlient
+module github.com/chromaui/genqlient
 
 go 1.18
 
@@ -24,5 +24,3 @@ require (
 	golang.org/x/sys v0.8.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
-
-replace github.com/Khan/genqlient v0.6.0 => ./
